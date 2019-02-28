@@ -1,0 +1,210 @@
+{
+    "worms_responses": [
+        {
+            "list_name": "Rhizophoraceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Rhizophoraceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 234494,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=234494",
+                    "scientificname": "Rhizophoraceae",
+                    "authority": null,
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 234494,
+                    "valid_name": "Rhizophoraceae",
+                    "valid_authority": null,
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Malpighiales",
+                    "family": "Rhizophoraceae",
+                    "genus": null,
+                    "citation": "Dahdouh-Guebas F. (Ed.) (2019). World Mangroves database. Rhizophoraceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=234494 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:234494",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2009-09-14T14:17:09.547Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Acanthaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Acanthaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 344737,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=344737",
+                    "scientificname": "Acanthaceae",
+                    "authority": null,
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 344737,
+                    "valid_name": "Acanthaceae",
+                    "valid_authority": null,
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Lamiales",
+                    "family": "Acanthaceae",
+                    "genus": null,
+                    "citation": "Dahdouh-Guebas F. (Ed.) (2019). World Mangroves database. Acanthaceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=344737 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:344737",
+                    "isMarine": null,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2010-01-28T14:54:14.817Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Combretaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Combretaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 235048,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=235048",
+                    "scientificname": "Combretaceae",
+                    "authority": null,
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 235048,
+                    "valid_name": "Combretaceae",
+                    "valid_authority": null,
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Myrtales",
+                    "family": "Combretaceae",
+                    "genus": null,
+                    "citation": "Dahdouh-Guebas F. (Ed.) (2019). World Mangroves database. Combretaceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=235048 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:235048",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2006-12-05T16:48:04.903Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Primulaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Primulaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 414871,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=414871",
+                    "scientificname": "Primulaceae",
+                    "authority": null,
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 414871,
+                    "valid_name": "Primulaceae",
+                    "valid_authority": null,
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Ericales",
+                    "family": "Primulaceae",
+                    "genus": null,
+                    "citation": "Dahdouh-Guebas F. (Ed.) (2019). World Mangroves database. Primulaceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=414871 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:414871",
+                    "isMarine": null,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2009-09-23T09:16:50.607Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Lythraceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Lythraceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 235059,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=235059",
+                    "scientificname": "Lythraceae",
+                    "authority": null,
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 235059,
+                    "valid_name": "Lythraceae",
+                    "valid_authority": null,
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Myrtales",
+                    "family": "Lythraceae",
+                    "genus": null,
+                    "citation": "Dahdouh-Guebas F. (Ed.) (2019). World Mangroves database. Lythraceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=235059 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:235059",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2009-09-14T14:17:09.547Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Malvaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Malvaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 413963,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=413963",
+                    "scientificname": "Malvaceae",
+                    "authority": null,
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 413963,
+                    "valid_name": "Malvaceae",
+                    "valid_authority": null,
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Malvales",
+                    "family": "Malvaceae",
+                    "genus": null,
+                    "citation": "Dahdouh-Guebas F. (Ed.) (2019). World Mangroves database. Malvaceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=413963 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:413963",
+                    "isMarine": null,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2009-09-14T14:17:09.547Z"
+                }
+            ]
+        }
+    ],
+    "valid_aphiaids": [
+        344737,
+        235048,
+        413963,
+        235059,
+        414871,
+        234494
+    ]
+}

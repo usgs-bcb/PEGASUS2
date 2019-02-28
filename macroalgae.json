@@ -1,0 +1,101 @@
+{
+    "worms_responses": [
+        {
+            "list_name": "Ulvaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Ulvaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 143794,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=143794",
+                    "scientificname": "Ulvaceae",
+                    "authority": "J.V. Lamouroux ex Dumortier, 1822",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 143794,
+                    "valid_name": "Ulvaceae",
+                    "valid_authority": "J.V. Lamouroux ex Dumortier, 1822",
+                    "kingdom": "Plantae",
+                    "phylum": "Chlorophyta",
+                    "class": "Ulvophyceae",
+                    "order": "Ulvales",
+                    "family": "Ulvaceae",
+                    "genus": null,
+                    "citation": "Guiry, M.D. & Guiry, G.M. (2019). AlgaeBase. World-wide electronic publication, National University of Ireland, Galway (taxonomic information republished from AlgaeBase with permission of M.D. Guiry). Ulvaceae J.V. Lamouroux ex Dumortier, 1822. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=143794 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:143794",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2008-10-24T09:00:36.997Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Phaeophyceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Phaeophyceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 830,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=830",
+                    "scientificname": "Phaeophyceae",
+                    "authority": "Kjellman, 1891",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Class",
+                    "valid_AphiaID": 830,
+                    "valid_name": "Phaeophyceae",
+                    "valid_authority": "Kjellman, 1891",
+                    "kingdom": "Chromista",
+                    "phylum": "Ochrophyta",
+                    "class": "Phaeophyceae",
+                    "order": null,
+                    "family": null,
+                    "genus": null,
+                    "citation": "WoRMS (2019). Phaeophyceae. Accessed at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=830 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:830",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2011-11-25T13:15:22.580Z"
+                },
+                {
+                    "AphiaID": 197011,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=197011",
+                    "scientificname": "Phaeophyceae incertae sedis",
+                    "authority": null,
+                    "status": "temporary name",
+                    "unacceptreason": null,
+                    "rank": "Order",
+                    "valid_AphiaID": 197011,
+                    "valid_name": "Phaeophyceae incertae sedis",
+                    "valid_authority": null,
+                    "kingdom": "Chromista",
+                    "phylum": "Ochrophyta",
+                    "class": "Phaeophyceae",
+                    "order": "Phaeophyceae incertae sedis",
+                    "family": null,
+                    "genus": null,
+                    "citation": "Guiry, M.D. & Guiry, G.M. (2019). AlgaeBase. World-wide electronic publication, National University of Ireland, Galway (taxonomic information republished from AlgaeBase with permission of M.D. Guiry). Phaeophyceae incertae sedis. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=197011 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:197011",
+                    "isMarine": null,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2017-02-16T09:32:38.737Z"
+                }
+            ]
+        }
+    ],
+    "valid_aphiaids": [
+        143794,
+        830
+    ]
+}

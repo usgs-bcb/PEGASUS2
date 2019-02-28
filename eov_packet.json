@@ -1,0 +1,126 @@
+[
+    {
+        "name": "phytoplankton",
+        "label": "Phytoplankton biomass and diversity",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17507",
+        "taxonomic_names": [
+            "Chlorophyceae",
+            "Chrysophyceae",
+            "Cryptophyceae",
+            "Cyanophyceae",
+            "Diatomophyceae",
+            "Dictyochophyceae",
+            "Dinophyceae",
+            "Euglenophyceae",
+            "Eustigmatophyceae",
+            "Micromonadophyceae",
+            "Pedinophyceae",
+            "Prasinophyceae",
+            "Prymnesiophyceae",
+            "Raphidophyceae",
+            "Rhodophyceae",
+            "Tribophyceae"
+        ]
+    },
+    {
+        "name": "zooplankton",
+        "label": "Zooplankton biomass and diversity",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17509",
+        "taxonomic_names": [
+            "Foraminifera",
+            "Acantharia",
+            "Polycystinia",
+            "Phaeodaria",
+            "Ciliata",
+            "Tintinnina",
+            "Hydrozoa",
+            "Siphonophora",
+            "Cubomedusae",
+            "Cubozoa",
+            "Scyphomedusae",
+            "Scyphozoa",
+            "Ctenophora",
+            "Rotifera",
+            "Platyhelminthes",
+            "Nectonema",
+            "Nemertinea",
+            "Polychaeta",
+            "Heteropoda",
+            "Pteropoda",
+            "Nudibranchia",
+            "Cephalopoda",
+            "Cladocera",
+            "Ostracoda",
+            "Isopoda",
+            "Copepoda",
+            "Mysidacea",
+            "Amphipoda",
+            "Euphausiacea",
+            "Decapoda",
+            "Chaetognatha",
+            "Appendicularia",
+            "Pyrosoma",
+            "Doliolida",
+            "Salpida"
+        ]
+    },
+    {
+        "name": "fish",
+        "label": "Fish abundance and distribution",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17510",
+        "taxonomic_names": [
+            "Pisces"
+        ]
+    },
+    {
+        "name": "turtles, birds, mammals",
+        "label": "Marine turtles, birds, mammals abundance and distribution",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17511",
+        "taxonomic_names": [
+            "Testudines",
+            "Aves",
+            "Mammalia"
+        ]
+    },
+    {
+        "name": "coral",
+        "label": "Hard coral cover and composition",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17512",
+        "taxonomic_names": [
+            "Scleractinia"
+        ]
+    },
+    {
+        "name": "seagrass",
+        "label": "Seagrass cover and composition",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17513",
+        "taxonomic_names": [
+            "Zosteraceae",
+            "Cymodoceaceae",
+            "Posidoniaceae",
+            "Hydrocharitaceae"
+        ]
+    },
+    {
+        "name": "macroalgae",
+        "label": "Macroalgal canopy cover and composition",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17515",
+        "taxonomic_names": [
+            "Ulvaceae",
+            "Phaeophyceae"
+        ]
+    },
+    {
+        "name": "mangroves",
+        "label": "Mangrove cover and composition",
+        "url": "http://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=17514",
+        "taxonomic_names": [
+            "Rhizophoraceae",
+            "Acanthaceae",
+            "Combretaceae",
+            "Primulaceae",
+            "Lythraceae",
+            "Malvaceae"
+        ]
+    }
+]

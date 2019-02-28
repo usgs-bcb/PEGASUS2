@@ -1,0 +1,142 @@
+{
+    "worms_responses": [
+        {
+            "list_name": "Zosteraceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Zosteraceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 143770,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=143770",
+                    "scientificname": "Zosteraceae",
+                    "authority": "Dumortier",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 143770,
+                    "valid_name": "Zosteraceae",
+                    "valid_authority": "Dumortier",
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Alismatales",
+                    "family": "Zosteraceae",
+                    "genus": null,
+                    "citation": "Guiry, M.D. & Guiry, G.M. (2019). AlgaeBase. World-wide electronic publication, National University of Ireland, Galway (taxonomic information republished from AlgaeBase with permission of M.D. Guiry). Zosteraceae Dumortier. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=143770 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:143770",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2011-07-29T07:04:15.940Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Cymodoceaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Cymodoceaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 143768,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=143768",
+                    "scientificname": "Cymodoceaceae",
+                    "authority": "N. Taylor",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 143768,
+                    "valid_name": "Cymodoceaceae",
+                    "valid_authority": "N. Taylor",
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Alismatales",
+                    "family": "Cymodoceaceae",
+                    "genus": null,
+                    "citation": "Guiry, M.D. & Guiry, G.M. (2019). AlgaeBase. World-wide electronic publication, National University of Ireland, Galway (taxonomic information republished from AlgaeBase with permission of M.D. Guiry). Cymodoceaceae N. Taylor. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=143768 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:143768",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2011-07-28T10:45:25.203Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Posidoniaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Posidoniaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 143769,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=143769",
+                    "scientificname": "Posidoniaceae",
+                    "authority": "Lotsy",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 143769,
+                    "valid_name": "Posidoniaceae",
+                    "valid_authority": "Lotsy",
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Alismatales",
+                    "family": "Posidoniaceae",
+                    "genus": null,
+                    "citation": "Guiry, M.D. & Guiry, G.M. (2019). AlgaeBase. World-wide electronic publication, National University of Ireland, Galway (taxonomic information republished from AlgaeBase with permission of M.D. Guiry). Posidoniaceae Lotsy. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=143769 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:143769",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2011-07-29T07:04:15.940Z"
+                }
+            ]
+        },
+        {
+            "list_name": "Hydrocharitaceae",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Hydrocharitaceae?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 143751,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=143751",
+                    "scientificname": "Hydrocharitaceae",
+                    "authority": "Jussieu",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 143751,
+                    "valid_name": "Hydrocharitaceae",
+                    "valid_authority": "Jussieu",
+                    "kingdom": "Plantae",
+                    "phylum": "Tracheophyta",
+                    "class": "Magnoliopsida",
+                    "order": "Alismatales",
+                    "family": "Hydrocharitaceae",
+                    "genus": null,
+                    "citation": "Guiry, M.D. & Guiry, G.M. (2019). AlgaeBase. World-wide electronic publication, National University of Ireland, Galway (taxonomic information republished from AlgaeBase with permission of M.D. Guiry). Hydrocharitaceae Jussieu. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=143751 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:143751",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2011-07-29T07:04:15.940Z"
+                }
+            ]
+        }
+    ],
+    "valid_aphiaids": [
+        143768,
+        143769,
+        143770,
+        143751
+    ]
+}

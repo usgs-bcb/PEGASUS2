@@ -1,0 +1,67 @@
+{
+    "worms_responses": [
+        {
+            "list_name": "Scleractinia",
+            "worms_search_url": "http://www.marinespecies.org/rest/AphiaRecordsByName/Scleractinia?like=true&marine_only=false&offset=1",
+            "worms_response": [
+                {
+                    "AphiaID": 1363,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=1363",
+                    "scientificname": "Scleractinia",
+                    "authority": "Bourne, 1900",
+                    "status": "accepted",
+                    "unacceptreason": null,
+                    "rank": "Order",
+                    "valid_AphiaID": 1363,
+                    "valid_name": "Scleractinia",
+                    "valid_authority": "Bourne, 1900",
+                    "kingdom": "Animalia",
+                    "phylum": "Cnidaria",
+                    "class": "Anthozoa",
+                    "order": "Scleractinia",
+                    "family": null,
+                    "genus": null,
+                    "citation": "Hoeksema, B. W.; Cairns, S. (2019). World List of Scleractinia. Scleractinia. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=1363 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:1363",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": null,
+                    "isTerrestrial": null,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2015-02-26T13:16:52.933Z"
+                },
+                {
+                    "AphiaID": 266986,
+                    "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=266986",
+                    "scientificname": "Scleractinia incertae sedis",
+                    "authority": null,
+                    "status": "temporary name",
+                    "unacceptreason": null,
+                    "rank": "Family",
+                    "valid_AphiaID": 266986,
+                    "valid_name": "Scleractinia incertae sedis",
+                    "valid_authority": null,
+                    "kingdom": "Animalia",
+                    "phylum": "Cnidaria",
+                    "class": "Anthozoa",
+                    "order": "Scleractinia",
+                    "family": "Scleractinia incertae sedis",
+                    "genus": null,
+                    "citation": "Hoeksema, B. W.; Cairns, S. (2019). World List of Scleractinia. Scleractinia incertae sedis. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=266986 on 2019-02-28",
+                    "lsid": "urn:lsid:marinespecies.org:taxname:266986",
+                    "isMarine": 1,
+                    "isBrackish": null,
+                    "isFreshwater": 0,
+                    "isTerrestrial": 0,
+                    "isExtinct": null,
+                    "match_type": "like",
+                    "modified": "2013-09-07T20:44:15.620Z"
+                }
+            ]
+        }
+    ],
+    "valid_aphiaids": [
+        1363
+    ]
+}

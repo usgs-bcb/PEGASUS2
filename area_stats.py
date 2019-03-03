@@ -26,6 +26,6 @@ for i_eov,eov in enumerate(eov_packet):
 
         area_stats_cache.append(area_stats)
 
-    with open(f'area_stats_{eov["name"]}.json', 'w') as f:
-        f.write(json.dumps(area_stats_cache))
+with open('area_stats.json', 'w') as f:
+    f.write(json.dumps(area_stats_cache))
         

@@ -2,11 +2,23 @@ import requests
 import json
 
 
-def get_eov_packet():
+def get_eov_packet(eov_name=None, taxon_ids_only=False):
     with open('eov_packet.json', 'rb') as f:
         eov_packet = json.loads(f.read())
+    
+    return_packet = eov_packet
+    
+    if eov_name is not None:
+        try:
+            return_packet = eov_packet[eov_name]
+        except:
+            pass
         
-    return eov_packet
+    if taxon_ids_only:
+        if eov_name is not None:
+            return_packet = [v["taxonID"] for k,v in return_packet["obis_worms_taxa"].items()]
+    
+    return return_packet
 
 
 def worms_info_from_names(name_list):
@@ -45,6 +57,7 @@ def summary_stats_by_aphiaids(aphia_ids, summary_type="statistics", area_id=None
         "statistics/years",
         "statistics/all",
         "statistics/env",
+        "statistics/composition",
         "institute",
         "dataset"
     ]

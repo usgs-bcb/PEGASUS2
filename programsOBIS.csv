@@ -1,0 +1,104 @@
+"acronym"	"network"	"name"	"email"	"obis_no_dontwant"	"obis_no_suitable"	"obis_no_like"	"obis_yes_partly"	"obis_yes_some"	"obis_yes_full"	"obis_other"	"obis_other_specify"
+"AIMS_LTMP"	"AIMS Long-term Monitoring Program"	"Hugh Sweatman"	"h.sweatman@aims.gov.au"	0	0	0	0	1	0	NA	NA
+"AMBON"	"Arctic Marine Biodiversity Observing Network"	"Katrin Iken"	"kbiken@alaska.edu"	0	0	0	0	1	0	"Other (please specify)"	"They will be once data are ready"
+"AMT"	"Atlantic Meridional Transect"	"Andy Rees"	"apre@pml.a.c.uk"	0	0	0	0	0	0	"Other (please specify)"	"I have not heard of OBIS, will investigate, though I suspect this is not wholly appropriate"
+"Antares "	"Antares Marine Monitoring Network"	"Eduardo Santamaria-del-Angel"	"santamaria@uabc.edu.mx"	0	0	0	0	1	0	NA	NA
+"AOOS"	"Alaska Ocean Observing System"	"Carol Janzen"	"janzen@aoos.org"	0	0	0	0	0	0	NA	NA
+"AWI_LTO"	"AWI long-term observations"	"Alexandra Kraberg"	"Alexandra.Kraberg@awi.de"	0	0	0	0	1	0	NA	NA
+"BalearesOMN"	"Balearic Islands ocean observing and monitoring network"	"John Allen"	"jallen@socib.es"	0	0	0	0	0	0	"Other (please specify)"	"Project specific"
+"BASEcosystems"	"BAS Ecosystems"	"Eugene Murphy"	"e.murphy@bas.ac.uk"	0	0	0	0	0	0	NA	NA
+"BioArgo"	"Biogeochemical Argo"	"Nick Hardman-Mountford"	"nick.hardman-mountford@csiro.au"	0	0	0	0	0	0	NA	NA
+"BioRaTS"	"Rothera Biology Monitor"	"Lloyd Peck"	"l.peck@bas.ac.uk"	0	1	0	0	0	0	"Other (please specify)"	"Again - I do not think so, and much of the data would not be suitable for OBIS, and they are further lodged in a data centre. I am not sure if there are links between OBIS and the BAS Polar Data Centre"
+"CalCOFI"	"California Cooperative Oceanic Fisheries Investigations"	"David Checkley"	"dcheckley@ucsd.edu"	0	0	0	0	0	0	"Other (please specify)"	"Uncertain of best answer."
+"CARIACO"	"The CARIACO Ocean Time-Series Program"	"Frank Muller-Karger"	"carib@usf.edu"	0	0	1	0	0	0	NA	NA
+"CARICOMP"	"Caribbean Coastal Marine Productivity"	"Jorge Cortés"	"jorge.cortes@ucr.ac.cr"	0	1	0	0	0	0	NA	NA
+"CBMP"	"Circumpolar Biodiversity Monitoring Programme"	"Tom Barry"	"tom@caff,is"	0	0	0	0	1	0	"Other (please specify)"	"ABDS has recently become the Arctic OBIS node and are in the process of processing data for inclusion in the Arctic OBIS IPT"
+"CEMP"	"CCAMLR Ecosystem Monitoring Program"	"Keith Reid"	"keith.reid@ccamlr.org"	0	0	0	0	0	0	"Other (please specify)"	"No"
+"CHINAnational"	"National Basic Research Program of China"	"Song Sun"	"sunsong@qdio.ac.cn"	0	1	0	0	0	0	NA	NA
+"CLIOTOP"	"Climate Impacts on Top Predators"	"Karen Evans"	"karen.evans@csiro.au"	0	0	0	0	1	0	NA	NA
+"CORMP"	"Coastal OCean Research and monitoring Program"	"Daniel Baden"	"baden@uncw.edu"	0	0	0	0	0	0	NA	NA
+"CPRsurvey"	"Continuous Plankton Recorder Survey"	"David Johns"	"djoh@sahfos.ac.uk"	0	0	0	1	0	0	NA	NA
+"EC-DCF"	"European Commission - Data Collection Framework"	"Francis Marsac"	"francis.marsac@ird.fr"	0	0	0	1	1	0	NA	NA
+"ECIM"	"Estación Costera de Investigaciones Marinas & marine reserve"	"Sergio Navarrete"	"snavarrete@bio.puc.cl"	0	0	0	0	0	0	"Other (please specify)"	"Have no idea what this is???"
+"EGO"	"glider network"	"Pierre Testor"	"testor@locean-ipsl.upmc.fr"	0	0	1	0	0	0	NA	NA
+"EIREmicrocystins"	"Near-real-time detection of microcystins in western Lake Erie"	"Timothy Davis"	"timothy.davis@noaa.gov"	0	0	0	0	0	0	"Other (please specify)"	"It doesn't seem like the Great Lakes fit into the portal model as it generally covers marine environments"
+"EMBOS"	"European Marine Biodiversity Observatory System"	"Herman Hummel"	"herman.hummel@nioz.nl"	0	0	0	0	0	1	"Other (please specify)"	"in OBIS after release from LifeWatch-Greece following the EMBOS rules (after publication, or 3 years after submission of data )"
+"ESP"	"Environmental Sample Processor (specifically networks incorporating ESPs, but not considered sustained operations)"	"Gregory Doucette"	"greg.doucette@noaa.gov"	0	0	1	0	0	0	NA	NA
+"FerryBox"	"North Sea Monitoring"	"Franciscus Colijn"	"franciscus.colijn@hzg.de"	0	1	0	0	0	0	NA	NA
+"FKNMS MBON"	"Marine Biodiversity Observation Network - Florida Keys National Marine Sanctuary"	"Enrique Montes"	"emontesh@mail.usf.edu"	0	0	1	0	0	0	"Other (please specify)"	"OBIS is a partner of the MBON project ."
+"GCOOS"	"Gulf of Mexico Coastal Ocean Observing System"	"Chris Simoniello"	"chris.simoniello@gcoos.org"	0	0	0	0	1	0	NA	NA
+"GCRMN"	"Global Coral Reef Monitoring Network"	"David Obura"	"dobura@cordioea.net"	0	0	1	0	0	0	"Other (please specify)"	"The data has always been primarily ecological, and OBIS taxonomic. But bringing the ecological data into OBIS would be very beneficial"
+"HAUSGARTEN"	"LTER Observatory HAUSGARTEN"	"Dr. Thomas Soltwedel"	"Thomas.Soltwede@awi.de"	0	1	0	0	0	0	NA	NA
+"HELCOM"	"HELCOM Coordinated Monitoring Programme"	"Urmas Lips"	"urmas.lips@msi.ttu.ee"	0	0	0	0	0	0	"Other (please specify)"	"Not sure"
+"HELGOLANDroads"	"Helgoland Roads"	"Alexandra Kraberg"	"Alexandra.Kraberg@awi.de"	0	0	0	0	1	0	NA	NA
+"HOT"	"Hawaii Ocean Time-series"	"Matthew Church"	"mjchurch@hawaii.edu"	0	0	1	0	0	0	NA	NA
+"HUFO-DAT"	"Hokkaido University Long-term Fisheries and Oceanographic Database"	"Atsushi Yamaguchi"	"a-yama@fish.hokudai.ac.jp"	0	0	1	0	0	0	NA	NA
+"ICES_survey"	"ICES survey programme"	"Heino O. Fock"	"heino.fock@thuenen.de"	0	0	0	0	0	1	"Other (please specify)"	"http://ecosystemdata.ices.dk/webservices/index.aspx"
+"IEO"	"Instituto Español de Oceanografía"	"Manuel Ruiz Villarreal"	"manuel.ruiz@co.ieo.es"	0	0	0	0	0	0	NA	NA
+"IGMETS"	"International Group for Marine Ecological Time Series"	"Isensee, Kirsten"	"k.isensee@unesco.org"	0	0	0	1	1	0	NA	NA
+"IMOS"	"Integrated Marine Observing System"	"Ana Lara-Lopez"	"Ana.Lara@utas.edu.au"	0	0	0	0	1	0	NA	NA
+"IndiSeas"	"Indicators for the Seas"	"Yunne SHIN"	"yunne-jai.shin@ird.fr"	0	1	0	0	0	0	NA	NA
+"IOOSatn/SECOORA"	"IOOS ATN, SECOORA"	"Jerald S. Ault"	"jault@rsmas.miami.edu"	0	0	1	0	0	0	"Other (please specify)"	"Not sure of the relevancy of OBIS?"
+"ISRAELmon"	"Israel monitoring"	"eyal greengrass"	"eyal.greengrass@ocean.org.il"	0	1	0	0	0	0	"Other (please specify)"	"some of the DNA data typs are missing (or was hard to find) standards"
+"JAPAN1000"	"Monitoring Sites 1000 Project: Coastal Area Survey (Rocky Shores, Tidal Flats, Seagrass Beds and Algal Beds)"	"YOSHINORI MOGAMI"	"YOSHINORI_MOGAMI@env.go.jp"	0	0	1	0	0	0	NA	NA
+"JAPAN_zoop"	"Zooplankton Sample Collection of Japan Fisheries Research and Education Agency"	"Kazuaki Tadokoro"	"den@affrc.go.jp"	0	0	0	0	0	0	"Other (please specify)"	"Now we are discussing the how to open the our data."
+"KEEN"	"Kelp Ecosystem Ecology Network"	"Jarrett Byrnes"	"jarrett.byrnes@umb.edu"	0	0	1	0	0	0	NA	NA
+"LTER"	"Long Term Ecological Research Network"	"Maria Carla de Francesco"	"maria.defrancesco@unimol.it"	0	0	1	0	0	0	NA	NA
+"LTER_Europe"	"Long-Term Ecosystem Research in Europe"	"Ana Sousa"	"anaisousa@ua.pt"	0	0	0	0	0	0	NA	NA
+"LTER/ILTER"	"Long Term Ecosystem Research in Europe and International Long Term Ecological Research"	"Ana Isabel Sousa"	"anaisousa@ua.pt"	0	0	0	0	0	0	"Other (please specify)"	"No. "
+"LTER_Italy"	"Italian Long Term Ecological Research Network"	"Mariangela Ravaioli"	"mariangela.ravaioli@bo.ismar.cnr.it"	0	0	1	0	0	0	NA	NA
+"LTER-MC"	"Long-term variations of plankton at the LTER- Marechiara site (Gulf of Naples,  Mediterranean Sea)"	"Adriana Zingone"	"zingone@szn.it"	0	0	1	0	0	0	NA	NA
+"LTOBenthosGBight"	"Long-term observation German Bight macrozoobenthos (North Sea)"	"Jennifer Dannheim"	"Jennifer.Dannheim@awi.de"	0	0	0	0	0	0	"Other (please specify)"	"not in OBIS, not sure if the data are suitable"
+"MARINe"	"Multiagency rocky intertidal Network"	"Peter Raimondi"	"raimondi@ucsc.edu"	0	0	0	0	1	0	NA	NA
+"MarineGEO"	"Smithsonian Marine Global Earth Observatory"	"Maria Murray"	"MurrayMC@si.edu"	0	0	1	0	0	0	NA	NA
+"MARMAP"	"MARMAP- SEAMAP-SA"	"Marcel Reichert"	"Reichertm@dnr.sc.gov"	0	0	0	1	0	0	"Other (please specify)"	"Data were provided once (years back) and have not been updated."
+"MedCPR"	"Mediterranean Continuous Plankton Recorder Survey"	"Rana Abu Alhaija"	"r.abualhaija@cyi.ac.cy"	0	0	1	0	0	0	NA	NA
+"MMP"	"Reef Rescue Marine Monitoring Program"	"Hugh Sweatman"	"h.sweatman@aims.gov.au"	0	0	0	0	0	0	"Other (please specify)"	"Uncertain for this data set"
+"MondegoEstuary"	"Long-term monitoring plan of the Mondego estuary, Portugal"	"Filipe Martinho"	"fmdm@ci.uc.pt"	0	0	0	0	0	0	"Other (please specify)"	"No, and up to this moment I did not know about OBIS, so I don't know about the requirements."
+"NaGISA"	"Natural Geography in Shore Areas"	"Patricia Miloslavich"	"pmilos@usb.ve"	0	0	0	0	0	1	"Other (please specify)"	"PLoS Collection: http://collections.plos.org/nagisa"
+"NCRMP"	"National Coral Reef Monitoring Program"	"Derek Manzello"	"derek.manzello@noaa.gov"	1	0	0	0	0	0	NA	NA
+"NEPTUNE&VENUS"	"Though I lead the Canadian Healthy Oceans Network we are not a monitoring program so I will focus on observatories we use."	"Paul Snelgrove"	"psnelgrove@mun.ca"	0	1	0	0	0	0	NA	NA
+"NHC"	"US Harmful Algal Bloom National HAB Committee"	"Raphael Kudela"	"kudela@ucsc.edu"	0	0	0	0	0	0	"Other (please specify)"	"If the data are submitted to HAEDAT, they are connected to OBIS, but the NHC does not require participants to submit. "
+"NOOS"	"North West Shelf Operational Oceanography System"	"Henning Wehde"	"henningw@imr.no"	0	0	0	0	0	0	NA	NA
+"NPCPRsurvey"	"North Pacific CPR Survey"	"Sonia Batten"	"soba@sahfos.ac.uk"	0	0	0	0	1	0	NA	NA
+"OBISJapan"	"Ocean Biogeographic information system"	"Takashi Hosono"	"hosonot@jamstec.go.jp"	0	0	0	0	1	0	NA	NA
+"ODV"	"Ocean Data Viewer"	"Corinne Martin"	"corinne.martin@unep-wcmc.org"	0	0	0	1	1	0	NA	NA
+"OMORN"	"Off-Shore Marine Observation and Research Network"	"Song Sun"	"sunsong@qdio.ac.cn"	0	0	0	1	0	0	NA	NA
+"ORKNEYkrill"	"Monitoring krill abundance in the South Orkney Islands"	"Olav Rune Godo"	"olavrune@imr.no"	0	0	0	0	0	0	NA	NA
+"ORNITHOECO"	"Seabirds and marine mammals as sentinels of the SOuthern Ocean"	"Weimerskirch Henri"	"henriw@cebc.cnrs.fr"	0	0	1	0	0	0	NA	NA
+"OSD"	"Ocean Sampling Day"	"Renzo"	"rkottman@mpi-bremen.de"	0	1	0	0	0	0	NA	NA
+"OTN"	"Ocean Tracking Network"	"Frederick Whoriskey"	"fwhoriskey@dal.ca"	0	0	0	0	1	0	NA	NA
+"PacificRAMP"	"Pacific Reef Assessment and Monitoring Program (of NOAA's National Coral Reef Monitoring Program)"	"Dr. Russell 'Rusty' Brainard"	"rusty.brainard@noaa.gov"	0	0	0	0	1	0	NA	NA
+"PICO"	"Pivers Island Coastal Observatory (Beaufort NC USA)"	"Zackary Johnson"	"zij@duke.edu"	0	0	0	0	0	0	"Other (please specify)"	"I have no idea, but probably not. "
+"POSEIDON"	"POSEIDON"	"FRANGOULIS Constantin"	"cfrangoulis@hcmr.gr"	0	0	0	0	0	0	"Other (please specify)"	"No they are not."
+"REDCALIDAD"	"Basque monitoring network for the ecological status assessment"	"Angel Borja"	"aborja@azti.es"	0	0	0	0	0	0	"Other (please specify)"	"No"
+"RLS"	"Reef Life Survey"	"Graham Edgar"	"g.edgar@utas.edu.au"	0	0	0	0	0	0	"Other (please specify)"	"not sure, depends on connectivity between OBIS and GBIF"
+"SA-CPR"	"South African CPR Survey"	"Hans M. Verheye"	"hans.verheye@gmail.com"	0	0	0	0	0	0	"Other (please specify)"	"Not at this stage"
+"SAEON"	"South African Environmental Observation Network"	"Lara Atkinson"	"Lara@saeon.ac.za"	0	0	0	1	0	0	"Other (please specify)"	"It is not part of my duties to be publishing onto OBIS - it is covered by our Database and data administration personnel."
+"SARCE"	"South American Research Group in Coastal Ecosystems"	"Patricia Miloslavich"	"pmilos@usb.ve"	0	0	1	0	0	0	NA	NA
+"SBC_MBON"	"Santa Barbara Channel Biodiversity Observation Network"	"Robert Miller"	"miller@msi.ucsb.edu"	0	0	1	0	0	0	NA	NA
+"SCCOOS"	"Southern CAlifornia Coastal Ocean Observing System"	"Julie Thomas"	"Jothomas@ucsd.edu"	0	0	1	0	0	0	"Other (please specify)"	"It would be great to have these publicized in OBIS. WE don't have that connection yet. "
+"SeagrassNet"	"SeagrassNet Global Monitoring"	"Fred Short"	"fred.short@unh.edu"	0	0	1	0	0	0	NA	NA
+"SewardLine"	"Seward Line"	"Russell R Hopcroft"	"rrhopcroft@alaska.edu"	0	0	0	0	1	0	NA	NA
+"SIBER"	"Sustained Indian Ocean Biogeochemistry and Ecosystem research"	"satya prakash"	"satyap@incois.gov.in"	0	0	0	0	0	0	NA	NA
+"SIRAL"	"Sistema informativo regionale ambientale della liguria"	"Mascha Stroobant"	"mascha.stroobant@dltm.it"	0	0	0	0	0	0	"Other (please specify)"	"I don't know."
+"SloveniaMon"	"Monitoring for chemical and ecological statuss assessment for costal and teritorial waters"	"Maja Sever"	"Maja.Sever2@gov.si"	0	0	0	0	0	0	NA	NA
+"SloveniaNatMon"	"National monitoring of the ecological and chemical status of the Slovenian sea"	"Patricija Mozetič"	"patricija.mozetic@nib.si"	0	0	1	0	0	0	NA	NA
+"SLW"	"Swedish LifeWatch"	"Matthias Obst"	"matthias.obst@marine.gu.se"	0	0	0	0	0	1	"Other (please specify)"	"the marine data from our largest national data provider (SMHI.se) are exported to OBIS and GBIF. But since some of the other data providers are still with relatively few marine data (e.g. animal movement data bank) not all data may be 'fully' connected yet."
+"SOCPRsurvey"	"SCAR Southern Ocean Continuous Plankton Recorder Survey"	"Graham Hosie"	"graham.hosie@iinet.net.au"	0	0	0	0	0	1	NA	NA
+"SO-MEMO"	"Observing System: Mammal as Ocean Samplers (Mammifères Echantillonneurs du Milieu Océanique)"	"Christophe GUINET"	"guinet@cebc.cnrs.fr"	0	0	1	0	0	0	NA	NA
+"SONA"	"Southern Ocean Network of Acoustics"	"Sophie Fielding"	"sof@bas.ac.uk"	0	0	0	0	0	0	NA	NA
+"SOT"	"Ship Observations Team"	"Martin Kramp"	"mkramp@jcommops.org"	0	1	0	0	0	0	NA	NA
+"SOTS"	"IMOS Southern Ocean Time Series Facility"	"Tom Trull"	"Tom.Trull@csiro.au"	1	0	0	0	0	0	NA	NA
+"SPOT/MO/DOB"	"USC Wrigley Institute San Pedro Ocean Time-series (SPOT), USC Microbial Observatory/Dimensions of Biodiversity, and other partner time-series programs at USC"	"Diane Kim"	"dianekim@usc.edu"	0	0	1	0	0	0	NA	NA
+"TABS"	"Texas Automated Buoy System"	"Anthony Knap"	"tknap@tamu.edu"	0	1	0	0	0	0	NA	NA
+"TOE"	"Tara Oceans Expedition (2009-2013)"	"PESANT, Stéphane"	"spesant@marum.de"	0	0	0	0	0	0	"Other (please specify)"	"The biodiversity data is not yet published"
+"UcapeTown"	"University of Cape Town Marine Ecological Survey"	"Charles Griffiths"	"charles.griffiths@uct.ac.za"	0	0	0	1	0	0	NA	NA
+"USAMLR"	"United States Antarctic Living Marine Resources Program"	"George Watters"	"george.watters@noaa.gov"	0	0	0	0	0	0	"Other (please specify)"	"No and I don't know if this is something I would want or be authorized to do given NOAA's efforts to make all its data sets available on common websites."
+"VAS&VBS"	"Virtual Antenna System and Virtual Buoy System"	"Chuanmin Hu"	"huc@usf.edu"	0	0	0	0	0	0	"Other (please specify)"	"No, as I am not familiar with OBIS"
+"VELMU"	"The Finnish Inventory Programme for the Underwater Marine Environment"	"Elina Virtanen"	"elina.a.virtanen@ymparisto.fi"	0	0	1	0	0	0	NA	NA
+"WCO"	"Western Channel Observatory"	"Tim Smyth"	"tjsm@pml.ac.uk"	0	0	0	0	0	0	"Other (please specify)"	"not sure on this one"
+"WHITESea"	"We carry out several independent monitoring programs (see below) without a specific general name."	"Alexey Sukhotin"	"alexey.sukhotin@zin.ru"	0	0	0	0	1	0	NA	NA
+"WPOS"	"Western Pacific Ocean System: Structure Dynamics and Consequences"	"Song Sun"	"sunsong@qdio.ac.cn"	0	1	0	0	0	0	NA	NA
+"ZATA"	"Zone Atelier Terres Australes, CNRS"	"Yan Ropert-Coudert"	"yan.ropert-coudert@cebc.cnrs.fr"	0	0	0	0	1	0	NA	NA
+"ZEN"	"Zostera Experimental Network"	"Pamela Reynolds"	"plreynolds@ucdavis.edu"	0	0	0	0	0	0	"Other (please specify)"	"No, but it is something we will consider"

@@ -1,0 +1,113 @@
+specieslevel,taxa,eov_name,taxonID,taxonomicStatus,taxonRank,scientificNameAuthorship,end_year,eov_label,start_year,records,date_cached,datasets,scientificName,species
+772924,6312,coral,1292,accepted,Class,"Ehrenberg, 1834",2018,Hard coral cover and composition,1758,1249114,2019-03-03T13:17:56.569209,447,Anthozoa,5336
+95856,6323,coral,164811,accepted,Class,"Sollas, 1885",2018,Hard coral cover and composition,1691,227158,2019-03-03T13:17:58.618811,244,Demospongiae,5863
+140802,3028,coral,1795,accepted,Class,"Allman, 1856",2017,Hard coral cover and composition,1816,166354,2019-03-03T13:18:00.563183,218,Gymnolaemata,2487
+60712,1606,coral,1839,accepted,Class,"Blainville, 1824",2018,Hard coral cover and composition,1868,92547,2019-03-03T13:18:02.715874,316,Ascidiacea,1551
+12210,676,coral,22612,accepted,Class,"Schmidt, 1870",2017,Hard coral cover and composition,1840,29553,2019-03-03T13:18:04.742981,75,Hexactinellida,554
+6996,529,coral,559,accepted,Class,"Bowerbank, 1862",2018,Hard coral cover and composition,1842,10639,2019-03-03T13:18:06.809386,127,Calcarea,478
+24514191,19928,fish,10194,accepted,Class,,2018,Fish abundance and distribution,1643,26399857,2019-03-03T13:18:08.839592,811,Actinopterygii,16441
+1948534,1196,fish,10193,accepted,Class,,2018,Fish abundance and distribution,1758,2138370,2019-03-03T13:18:10.645388,499,Elasmobranchii,1015
+57685,51,fish,10196,accepted,Class,,2016,Fish abundance and distribution,1865,60170,2019-03-03T13:18:12.075822,115,Holocephali,43
+14731,71,fish,10189,accepted,Class,,2017,Fish abundance and distribution,1835,16607,2019-03-03T13:18:13.776790,92,Myxini,65
+2155960,7030,invertebrates,889925,accepted,Class,"Oakley, Wolfe, Lindgren & Zaharof, 2013",2018,Invertebrate abundance and distribution,1758,3917741,2019-03-03T13:18:15.822375,570,Hexanauplia,5570
+2888581,24621,invertebrates,1071,accepted,Class,"Latreille, 1802",2018,Invertebrate abundance and distribution,1697,3973340,2019-03-03T13:18:17.609470,835,Malacostraca,24392
+60704,158,invertebrates,1069,accepted,Class,"Latreille, 1817",2018,Invertebrate abundance and distribution,1849,121335,2019-03-03T13:18:19.640895,190,Branchiopoda,106
+9269,470,invertebrates,1307,accepted,Class,,2018,Invertebrate abundance and distribution,1780,61089,2019-03-03T13:18:21.555999,164,Insecta,254
+27893,1118,invertebrates,1302,accepted,Class,"Latreille, 1810",2018,Invertebrate abundance and distribution,1869,35774,2019-03-03T13:18:23.412610,236,Pycnogonida,1022
+,,invertebrates,1070,unaccepted,Class,"Dahl, 1956",,Invertebrate abundance and distribution,,,2019-03-03T13:18:24.432525,,Maxillopoda,
+4376,6,invertebrates,150507,accepted,Class,"Woodward, 1866",2015,Invertebrate abundance and distribution,1904,6598,2019-03-03T13:19:26.885813,22,Merostomata,4
+988593,20112,invertebrates,101,accepted,Class,"Cuvier, 1795",2018,Invertebrate abundance and distribution,1027,1488609,2019-03-03T13:19:28.732484,698,Gastropoda,17774
+1052182,5826,invertebrates,105,accepted,Class,"Linnaeus, 1758",2018,Invertebrate abundance and distribution,1698,1254609,2019-03-03T13:19:30.782254,669,Bivalvia,5148
+25819,573,invertebrates,55,accepted,Class,"Gray, 1821",2018,Invertebrate abundance and distribution,1771,32123,2019-03-03T13:19:32.828113,241,Polyplacophora,519
+15069,428,invertebrates,104,accepted,Class,"Bronn, 1862",2018,Invertebrate abundance and distribution,1869,20052,2019-03-03T13:19:34.875952,171,Scaphopoda,397
+174622,1748,invertebrates,123084,accepted,Class,"Gray, 1840",2018,Invertebrate abundance and distribution,1828,266458,2019-03-03T13:19:36.923778,403,Ophiuroidea,1607
+147477,90,invertebrates,5949,accepted,Class,,2018,Invertebrate abundance and distribution,1827,215078,2019-03-03T13:19:38.971694,185,Sagittoidea,70
+151426,1917,invertebrates,123080,accepted,Class,"de Blainville, 1830",2018,Invertebrate abundance and distribution,1758,212434,2019-03-03T13:19:40.815653,372,Asteroidea,1524
+125706,1049,invertebrates,123082,accepted,Class,"Leske, 1778",2018,Invertebrate abundance and distribution,1720,171185,2019-03-03T13:19:42.864160,359,Echinoidea,842
+44516,684,invertebrates,14165,accepted,Class,,2018,Invertebrate abundance and distribution,1791,117451,2019-03-03T13:19:44.309576,248,Clitellata,559
+81544,1349,invertebrates,123083,accepted,Class,,2018,Invertebrate abundance and distribution,1775,105888,2019-03-03T13:19:45.935204,323,Holothuroidea,1140
+25400,650,invertebrates,123081,accepted,Class,,2017,Invertebrate abundance and distribution,1758,39753,2019-03-03T13:19:47.982770,168,Crinoidea,532
+47377,2596,invertebrates,731848,accepted,Class,,2016,Invertebrate abundance and distribution,1809,89044,2019-03-03T13:19:50.031265,122,Chromadorea,2135
+11596,956,invertebrates,834422,accepted,Class,,2016,Invertebrate abundance and distribution,1888,21001,2019-03-03T13:19:52.080247,128,Enoplea,849
+26518,109,invertebrates,1296,accepted,Class,,2017,Invertebrate abundance and distribution,1872,34870,2019-03-03T13:19:53.687484,166,Sipunculidea,76
+11430,88,invertebrates,1249,accepted,Class,"Eschscholtz, 1825",2016,Invertebrate abundance and distribution,1871,20934,2019-03-03T13:19:55.562321,128,Tentaculata,49
+11804,303,invertebrates,1794,accepted,Class,"Borg, 1926",2015,Invertebrate abundance and distribution,1868,20115,2019-03-03T13:19:57.404175,111,Stenolaemata,227
+13323,15,invertebrates,101063,accepted,Class,"Théel, 1906",2017,Invertebrate abundance and distribution,1868,14798,2019-03-03T13:19:59.453762,110,Priapulida,9
+4747,2252,invertebrates,479175,accepted,Subphylum,"Ehlers, 1985",2018,Invertebrate abundance and distribution,1903,8906,2019-03-03T13:20:01.499928,84,Rhabditophora,1831
+,,invertebrates,794,unaccepted,Class,"Ehrenberg, 1831",,Invertebrate abundance and distribution,,,2019-03-03T13:20:02.728986,,Turbellaria,
+5784,45,invertebrates,122307,accepted,Class,"Hubrecht, 1879",2016,Invertebrate abundance and distribution,1868,9461,2019-03-03T13:21:05.603981,57,Palaeonemertea,38
+700,51,invertebrates,1820,accepted,Class,"Gegenbaur, 1870",2018,Invertebrate abundance and distribution,1825,8860,2019-03-03T13:21:07.652061,88,Enteropneusta,39
+6795,55,invertebrates,1295,accepted,Class,,2016,Invertebrate abundance and distribution,1828,8248,2019-03-03T13:21:09.503676,88,Phascolosomatidea,39
+7467,253,invertebrates,104020,accepted,Class,"Williams, Carlson, Brunton, Holmer & Popov, 1996",2016,Invertebrate abundance and distribution,1869,8001,2019-03-03T13:21:11.543427,100,Rhynchonellata,208
+6217,71,invertebrates,122309,accepted,Class,"Hubrecht, 1879",2018,Invertebrate abundance and distribution,1873,6533,2019-03-03T13:21:13.383709,59,Hoplonemertea,55
+1608,51,invertebrates,1320351,accepted,Class,"Thollesson & Norenburg, 2003",2017,Invertebrate abundance and distribution,1887,6460,2019-03-03T13:21:15.435913,68,Pilidiophora,44
+5117,32,macroalgae,146217,accepted,Class,"Rabenhorst, 1863",2017,Macroalgal canopy cover and composition,1975,7436,2019-03-03T13:21:17.313687,14,Charophyceae,24
+421738,3111,macroalgae,368670,accepted,Class,"Cronquist, 1960",2018,Macroalgal canopy cover and composition,1648,556348,2019-03-03T13:21:18.762433,236,Florideophyceae,2728
+287124,1040,macroalgae,830,accepted,Class,"Kjellman, 1891",2018,Macroalgal canopy cover and composition,1809,357064,2019-03-03T13:21:20.239013,219,Phaeophyceae,808
+11528,44,macroalgae,886274,accepted,Class,,2016,Macroalgal canopy cover and composition,1902,40477,2019-03-03T13:21:22.398103,109,Pyramimonadophyceae,33
+9575,132,macroalgae,160573,accepted,Class,"Friedl, 1995",2016,Macroalgal canopy cover and composition,1902,18231,2019-03-03T13:21:23.975566,83,Trebouxiophyceae,97
+135777,870,macroalgae,146216,accepted,Class,"K.R. Mattox & K.D. Stewart, 1978",2018,Macroalgal canopy cover and composition,1753,220235,2019-03-03T13:21:25.879083,216,Ulvophyceae,672
+1545,20,mangroves,234494,accepted,Family,,2018,Mangrove cover and composition,1794,1747,2019-03-03T13:21:27.722263,23,Rhizophoraceae,16
+515,6,mangroves,235048,accepted,Family,,2017,Mangrove cover and composition,1969,515,2019-03-03T13:21:44.926792,14,Combretaceae,6
+696,8,mangroves,344737,accepted,Family,,2018,Mangrove cover and composition,1899,705,2019-03-03T13:21:31.623348,23,Acanthaceae,6
+174,4,mangroves,235062,accepted,Family,,2015,Mangrove cover and composition,1938,180,2019-03-03T13:21:33.662467,7,Meliaceae,2
+92,5,mangroves,414871,accepted,Family,,2018,Mangrove cover and composition,1837,93,2019-03-03T13:21:35.505104,8,Primulaceae,4
+47,9,mangroves,235055,accepted,Family,,2015,Mangrove cover and composition,1964,53,2019-03-03T13:21:37.758885,8,Euphorbiaceae,8
+391,6,mangroves,235059,accepted,Family,,2016,Mangrove cover and composition,1816,391,2019-03-03T13:21:39.814666,13,Lythraceae,6
+12,3,mangroves,234449,accepted,Family,,2015,Mangrove cover and composition,1990,13,2019-03-03T13:21:41.498936,6,Arecaceae,2
+211,9,mangroves,413963,accepted,Family,,2015,Mangrove cover and composition,1964,211,2019-03-03T13:21:43.140126,9,Malvaceae,9
+104,4,mangroves,234487,accepted,Family,,2015,Mangrove cover and composition,1938,106,2019-03-03T13:21:46.770100,7,Pteridaceae,3
+87,227,microbes,393018,accepted,Class,,2017,Microbe biomass and diversity,1969,142648,2019-03-03T13:21:48.612901,28,Gammaproteobacteria,17
+4,178,microbes,392750,accepted,Class,,2016,Microbe biomass and diversity,1990,138780,2019-03-03T13:21:50.131566,5,Alphaproteobacteria,1
+0,79,microbes,392754,accepted,Class,,2016,Microbe biomass and diversity,1992,102383,2019-03-03T13:21:51.682301,2,Deltaproteobacteria,0
+0,9,microbes,565461,accepted,Class,,2016,Microbe biomass and diversity,1992,47997,2019-03-03T13:21:53.528279,2,Planctomycetacia,0
+1,61,microbes,575695,accepted,Class,,2016,Microbe biomass and diversity,1979,42237,2019-03-03T13:21:55.372820,4,Flavobacteria,1
+0,4,microbes,571177,accepted,Class,"Cavalier-Smith, 2002",2016,Microbe biomass and diversity,1992,27097,2019-03-03T13:21:57.435471,2,Acidobacteria,0
+0,141,microbes,559510,accepted,Class,,2016,Microbe biomass and diversity,1990,26101,2019-03-03T13:21:59.468094,5,Actinobacteria,0
+0,21,microbes,559846,accepted,Class,,2016,Microbe biomass and diversity,1992,17931,2019-03-03T13:22:01.518032,2,Bacteroidia,0
+49385,577,microbes,146542,accepted,Class,"Schaffner, 1909",2018,Microbe biomass and diversity,1812,122319,2019-03-03T13:22:03.564238,192,Cyanophyceae,437
+0,8,microbes,564208,accepted,Class,"Hedlund, Gosink & Staley, 1997",2016,Microbe biomass and diversity,1992,17687,2019-03-03T13:22:05.611230,2,Verrucomicrobiae,0
+0,19,microbes,564099,accepted,Class,,2016,Microbe biomass and diversity,1992,17498,2019-03-03T13:22:07.864069,2,Sphingobacteria,0
+0,84,microbes,393944,accepted,Class,,2016,Microbe biomass and diversity,1979,13539,2019-03-03T13:22:09.912487,4,Betaproteobacteria,0
+0,75,microbes,565167,accepted,Class,"Rainey, 2010",2016,Microbe biomass and diversity,1992,13032,2019-03-03T13:22:11.900070,2,Clostridia,0
+3,26,microbes,393209,accepted,Class,,2016,Microbe biomass and diversity,1992,12896,2019-03-03T13:22:13.607954,3,Epsilonproteobacteria,3
+0,10,microbes,564176,accepted,Class,"Choo, Lee, Song & Cho, 2007",2016,Microbe biomass and diversity,1992,10045,2019-03-03T13:22:15.646812,2,Opitutae,0
+0,69,microbes,377976,accepted,Class,,2016,Microbe biomass and diversity,1911,7107,2019-03-03T13:22:17.699823,5,Bacili,0
+0,2,microbes,571462,accepted,Class,,2009,Microbe biomass and diversity,1992,6435,2019-03-03T13:22:19.948014,1,Thermomicrobia,0
+98896,541,microbes,732974,accepted,Class,"Bütschli, 1887",2018,Microbe biomass and diversity,1856,192093,2019-03-03T13:22:21.375026,114,Oligotrichea,480
+36155,95,microbes,292892,accepted,Class,"Small & Lynn, 1981",2016,Microbe biomass and diversity,1776,42017,2019-03-03T13:22:22.816480,66,Litostomatea,70
+447,123,microbes,1348,accepted,Class,"Bütschli, 1889",2016,Microbe biomass and diversity,1870,9712,2019-03-03T13:22:24.658388,21,Spirotrichea,98
+10865,308,microbes,235740,accepted,Class,"Ehrenberg, 1838",2016,Microbe biomass and diversity,1901,14056,2019-03-03T13:22:26.429245,23,Polycystina,220
+16096,7,microbes,598944,accepted,Class,,2016,Microbe biomass and diversity,1966,18950,2019-03-03T13:22:28.549854,62,Cryptophyta incertae sedis,4
+21194,177,microbes,368537,accepted,Class,"De Ridder, 1957",2017,Microbe biomass and diversity,1897,32573,2019-03-03T13:22:30.392126,48,Eurotatoria,134
+13083,204,phytoplankton,593338,accepted,Class,,2016,Phytoplankton biomass and diversity,1956,25288,2019-03-03T13:22:32.474580,65,Dinoflagellata incertae sedis,95
+1775563,2330,phytoplankton,148899,accepted,Class,"Haeckel, 1878",2018,Phytoplankton biomass and diversity,1788,2531515,2019-03-03T13:22:34.489803,291,Bacillariophyceae,1911
+1058,30,phytoplankton,586732,accepted,Class,,2018,Phytoplankton biomass and diversity,1902,8442,2019-03-03T13:22:36.293114,28,Acantharia,23
+34236,549,phytoplankton,744102,accepted,Class,"Pawlowski, Holzman & Tyszka, 2013",2015,Phytoplankton biomass and diversity,1758,45251,2019-03-03T13:22:38.175455,86,Tubothalamea,469
+22754,863,phytoplankton,520751,temporary name,Class,,2015,Phytoplankton biomass and diversity,1879,44525,2019-03-03T13:22:39.977575,76,Foraminifera incertae sedis,726
+889034,3140,phytoplankton,744104,accepted,Class,"Pawlowski, Holzmann & Tyszka, 2013",2017,Phytoplankton biomass and diversity,1754,957002,2019-03-03T13:22:41.796801,146,Globothalamea,2705
+25710,299,phytoplankton,802,accepted,Class,"Wille, 1884",2016,Phytoplankton biomass and diversity,1850,43482,2019-03-03T13:22:44.052766,124,Chlorophyceae,223
+19524,92,phytoplankton,146230,accepted,Class,,2016,Phytoplankton biomass and diversity,1903,41687,2019-03-03T13:22:45.753226,108,Chrysophyceae,66
+47348,71,phytoplankton,17639,accepted,Class,"Fritsch, 1927",2016,Phytoplankton biomass and diversity,1950,100822,2019-03-03T13:22:47.801595,122,Cryptophyceae,53
+58775,51,phytoplankton,146232,accepted,Class,"P.C. Silva, 1980",2018,Phytoplankton biomass and diversity,1900,120773,2019-03-03T13:22:49.644526,171,Dictyochophyceae,27
+1387410,1500,phytoplankton,19542,accepted,Class,"Fritsch, 1927",2018,Phytoplankton biomass and diversity,1596,1873902,2019-03-03T13:22:51.447594,283,Dinophyceae,1182
+98875,299,phytoplankton,115057,accepted,Class,Hibberd,2017,Phytoplankton biomass and diversity,1900,202777,2019-03-03T13:22:52.845247,173,Prymnesiophyceae,210
+3650,30,phytoplankton,160581,accepted,Class,"M. Chadefaud ex P.C. Silva, 1980",2016,Phytoplankton biomass and diversity,1900,10114,2019-03-03T13:22:54.243549,62,Raphidophyceae,18
+600,8,seagrass,143769,accepted,Family,Lotsy,2017,Seagrass cover and composition,1983,603,2019-03-03T13:22:56.197968,15,Posidoniaceae,7
+80813,14,seagrass,143770,accepted,Family,Dumortier,2017,Seagrass cover and composition,1897,82163,2019-03-03T13:22:58.222116,52,Zosteraceae,12
+498867,26,seagrass,143751,accepted,Family,Jussieu,2018,Seagrass cover and composition,1958,500892,2019-03-03T13:23:00.294721,56,Hydrocharitaceae,21
+356682,22,seagrass,143768,accepted,Family,N. Taylor,2018,Seagrass cover and composition,1934,360155,2019-03-03T13:23:02.137528,49,Cymodoceaceae,17
+3955082,1040,"turtles, birds, mammals",1836,accepted,Class,,2018,"Marine turtles, birds, mammals abundance and distribution",1758,4452176,2019-03-03T13:23:04.186609,239,Aves,853
+1131022,191,"turtles, birds, mammals",1837,accepted,Class,"Linnaeus, 1758",2019,"Marine turtles, birds, mammals abundance and distribution",1520,1224083,2019-03-03T13:23:06.193047,678,Mammalia,131
+11107,193,zooplankton,582177,accepted,Class,,2016,Zooplankton biomass and diversity,1903,42614,2019-03-03T13:23:08.264506,110,Euglenoidea,162
+16490,7,zooplankton,599640,accepted,Class,,2016,Zooplankton biomass and diversity,1903,18454,2019-03-03T13:23:10.329789,106,Ebriophyceae,3
+21137,102,zooplankton,580116,accepted,Class,,2016,Zooplankton biomass and diversity,1861,26140,2019-03-03T13:23:12.375831,55,Choanoflagellatea,84
+4914,26,zooplankton,104897,accepted,Class,,2016,Zooplankton biomass and diversity,1778,10728,2019-03-03T13:23:14.427026,130,Leptocardii,23
+12671,283,zooplankton,744106,accepted,Class,"Haeckel, 1862 (as emended by Pawlowski et al., 2013)",2015,Zooplankton biomass and diversity,1872,18510,2019-03-03T13:23:16.472138,90,Monothalamea,214
+12952,92,zooplankton,22626,accepted,Class,"Van der Haeven, 1850",2018,Zooplankton biomass and diversity,1774,66177,2019-03-03T13:23:18.531558,148,Thaliacea,68
+164976,2703,zooplankton,1337,accepted,Class,"Owen, 1843",2018,Zooplankton biomass and diversity,1758,388001,2019-03-03T13:23:20.240893,467,Hydrozoa,2212
+26076,153,zooplankton,135220,accepted,Class,"Goette, 1887",2018,Zooplankton biomass and diversity,1774,52392,2019-03-03T13:23:22.283211,244,Scyphozoa,113
+2007940,8960,zooplankton,883,accepted,Class,"Grube, 1850",2018,Zooplankton biomass and diversity,1761,2667261,2019-03-03T13:23:23.726026,635,Polychaeta,7808
+571836,870,zooplankton,11707,accepted,Class,"Cuvier, 1795",2018,Zooplankton biomass and diversity,1792,664517,2019-03-03T13:23:25.167562,335,Cephalopoda,767
+99848,2723,zooplankton,1078,accepted,Class,"Latreille, 1802",2018,Zooplankton biomass and diversity,1849,195694,2019-03-03T13:23:26.919364,327,Ostracoda,2208
+23297,63,zooplankton,146421,accepted,Class,,2018,Zooplankton biomass and diversity,1854,159655,2019-03-03T13:23:28.967096,174,Appendicularia,46
